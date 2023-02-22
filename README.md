@@ -1,2 +1,0 @@
-# .github
-Lorum Ipsum
